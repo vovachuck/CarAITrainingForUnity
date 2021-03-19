@@ -1,0 +1,7 @@
+.vscode/
+obj/
+Temp/
+Logs/
+logs/
+TrainSet/
+model2.h5
